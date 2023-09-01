@@ -1,0 +1,91 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.image-seja-raro {
+  text-align: center;
+}
+
+.image-seja-raro img {
+  width: 520px; 
+  height: 275px;
+  border-radius: 50% 50% 50% 50%;
+}
+
+.title {
+  text-align: center;
+  font-style: bold;
+}
+
+.border-title {
+  text-align: center;
+  padding: 0;
+  border: 1px solid black;
+}
+
+.video-container {
+  text-align: center;
+}
+
+fieldset {
+  width: 100%;
+  margin: auto 0 auto 0;
+}
+
+.formContainer {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.bigSelect {
+  display: block;
+  margin-top: 5px;
+  width: 97.5%;
+  height: 50px;
+  border-radius: 5px;
+  background-color: #edefed;
+  color: #333;
+}
+
+.bigButton {
+  width: 100%;
+  height: 45px;
+  text-align: center;
+  margin-top: 14px;
+  border-radius: 2px;
+  background-color: #46aa49;
+  color: white;
+  border: none;
+}
+
+.bigBackground {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  width: 100%;
+  height: 80px;
+  margin-top: 20px;
+  border-radius: 2px;
+  background-color: #e6e6e6;
+}
+
+.bigBackground label {
+  margin-right: 10px;
+}
+
+.bigButtonBackground {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 100%;
+  height: 80px;
+  margin-top: 20px;
+  border-radius: 2px;
+  background-color: #e6e6e6;
+}
+
+.forgotPassword {
+  margin-bottom: 10px;
+}
